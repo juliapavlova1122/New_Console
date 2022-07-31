@@ -1,4 +1,6 @@
-﻿int Max(int arg1, int arg2, int arg3)
+﻿// максимум из 9 чисел
+
+int Max(int arg1, int arg2, int arg3)
 {
     int result = arg1;
     if(arg2 > result) result = arg2;
